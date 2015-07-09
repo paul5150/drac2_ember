@@ -1,8 +1,8 @@
-Title:
+Title: Dracula Blog
 
-Authors:
+Authors: Enrique Esparza and Paul Morin
 
-Describe:
+Describe: A classy blog by the premiere undead man himself - Count Dracula! He can write, edit, delete and update you about his "life". 
 
 Built using: JavaScript, jQuery-1.11.3js , HTML, CSS, Ember-1.12.0, Bootstrap
 
